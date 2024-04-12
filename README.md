@@ -1,1 +1,2 @@
-# Technical-tasks-for-young-testers
+# ТЗ 
+## Для уточнения информации можете написать мне в тг https://t.me/merri_gun
